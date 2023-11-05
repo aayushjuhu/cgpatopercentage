@@ -1,0 +1,61 @@
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    background: white;
+    
+  }
+  #cont{
+    background-color: white;
+    width: 40%;
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 1%;
+    /* border: 2px solid rgb(2, 90, 185); */
+    box-shadow: 4px 4px #707070;
+
+  }
+
+  #head{
+    color: rgb(255, 255, 255); 
+    margin-left: 20%;
+    margin-top: 5%;
+  }
+
+  #cg{
+    color: white;
+    padding-top: 2%;
+    
+  }
+
+  body{
+    background-image: url(texture-1668079_1920.jpg);
+  }
+  button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+  }
+  input{
+    font-size: larger;
+    width: max-content;
+    align-content: center;
+    text-align: center;
+  }
+  #fnt{
+    color: white;
+  }
+  @media screen and (max-width: 500px) {
+    #cont{
+      width: 64%;
+      padding-top: 14%;
+      padding-top: 18%;
+    }
+    #head{
+        color: rgb(255, 255, 255); 
+        margin-left: 14%;
+        margin-top: 5%;
+      }
+  }
