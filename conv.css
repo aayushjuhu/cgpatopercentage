@@ -23,6 +23,8 @@
     color: rgb(255, 255, 255); 
     margin-left: 20%;
     margin-top: 5%;
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   #cg{
@@ -57,6 +59,8 @@
         color: rgb(255, 255, 255); 
         margin-left: 14%;
         margin-top: 5%;
+        text-align: justify;
+        text-justify: inter-word;
       }
   }
   @media screen and (max-width: 300px) {
@@ -69,6 +73,8 @@
         color: rgb(255, 255, 255); 
         margin-left: 14%;
         margin-top: 5%;
+        text-align: justify;
+        text-justify: inter-word;
       }
   }
  @media screen and (max-width: 280px) {
@@ -88,11 +94,15 @@
       width: 90%;
       padding-top: 14%;
       padding-top: 18%;
+      text-align: justify;
+      text-justify: inter-word;
     }
     #head{
         color: rgb(255, 255, 255); 
         margin-left: 14%;
         margin-top: 5%;
+        text-align: justify;
+        text-justify: inter-word;
       }
     #footer {
     position: fixed;
@@ -116,6 +126,8 @@
         color: rgb(255, 255, 255); 
         margin-left: 10%;
         margin-top: 5%;
+        text-align: justify;
+        text-justify: inter-word;
       }
     #footer {
     position: fixed;
