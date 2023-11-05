@@ -83,7 +83,7 @@
         margin-top: 5%;
       }
   }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 320px) {
     #cont{
       width: 90%;
       padding-top: 14%;
