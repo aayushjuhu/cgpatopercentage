@@ -71,3 +71,15 @@
         margin-top: 5%;
       }
   }
+ @media screen and (max-width: 280px) {
+    #cont{
+      width: 90%;
+      padding-top: 14%;
+      padding-top: 18%;
+    }
+    #head{
+        color: rgb(255, 255, 255); 
+        margin-left: 14%;
+        margin-top: 5%;
+      }
+  }
