@@ -109,7 +109,7 @@
 @media screen and (max-width: 400px) {
     #cont{
       width: 90%;
-      padding-top: 14%;
+      padding-top: 10%;
       padding-top: 18%;
     }
     #head{
@@ -117,4 +117,14 @@
         margin-left: 14%;
         margin-top: 5%;
       }
+    #footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 60px;
+    background: white;
+    
+  }
   }
